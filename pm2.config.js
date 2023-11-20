@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
       {
-        name      : "Test",
+        name      : "test",
         script    : "npx",
         interpreter: "none",
         args: "serve -s build -p 3010"
